@@ -1,0 +1,1 @@
+A small application to debug memory values of other running processes, allows for reading, filtering, and rewriting of other processes memory. Supports strings, ints and floats (32bit). UI is done with QT framework. 
